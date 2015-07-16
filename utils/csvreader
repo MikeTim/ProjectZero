@@ -1,0 +1,8 @@
+def csvread(fname)
+f = open(fname)
+lines = f.read()
+words = lines.split("\n")
+noun = words[0].split(",")
+verb = words[1].split(",")
+adj = words[2].split(",")
+adv = words[3].split(",")
