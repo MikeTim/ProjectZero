@@ -8,14 +8,13 @@ columns:100px 2;
 
 #main {
 float:right;
-columns:100px 1;
 }
 
 #footer {
 text-align:center;
 }
 body{
-background-color:#000AFA;
+background-color:#00AAFA;
 font-family:Arial, Helvetica, Courier;
 }
 h1{
