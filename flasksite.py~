@@ -13,9 +13,11 @@ def sengenpg():
 	text = "sengen"
 	return text
 @module.route('/markov')
+def markovpg():
 	text = "markov"
 	return text
 @module.route('/rot_13')
+def rotpg():
 	text = "ROT 13"
 	return text
 
