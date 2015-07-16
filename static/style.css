@@ -1,0 +1,26 @@
+#header {
+text-align:center;
+}
+#nav {
+float:left;
+columns:100px 2;
+}
+
+#main {
+float:right;
+columns:100px 1;
+}
+
+#footer {
+text-align:center;
+}
+body{
+background-color:#000AFA;
+font-family:Arial, Helvetica, Courier;
+}
+h1{
+background-color:#AAAAAA;
+}
+p{
+background-color:#FFFFFF;
+}
