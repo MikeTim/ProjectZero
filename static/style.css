@@ -2,19 +2,26 @@ div{
 display:block;
 }
 #header {
+background-color:#aaafaf;
 text-align:center;
 }
 #nav {
-float:left;
-columns:100px 2;
+background-color:#ffbaab;
+position:relative;
+left:0;
 }
 
 #main {
-float:right;
+    position: relative;
+    right: 0;
 }
 
 #footer {
+background-color:#dfdfdf;
 text-align:center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 body{
 background-color:#00AAFA;
