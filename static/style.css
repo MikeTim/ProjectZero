@@ -13,7 +13,7 @@ width:300px;
 }
 
 #main {
-    position: relative;
+    position: static;
     right: 0;
     width:700px;
 }
