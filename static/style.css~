@@ -7,13 +7,13 @@ text-align:center;
 }
 #nav {
 background-color:#ffbaab;
-position:relative;
+position:absolute;
 left:0;
 width:300px;
 }
 
 #main {
-    position: absolutet;
+    position: relative;
     right: 0;
     width:700px;
 }
