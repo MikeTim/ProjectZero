@@ -7,15 +7,17 @@ text-align:center;
 }
 #nav {
 background-color:#ffbaab;
-position:static;
+position:relative;
 left:0;
 width:300px;
 }
 
 #main {
     position: absolute;
-    right: 0;
+	top:78px;
+    right: 56px;
     width:700px;
+    background-color:#FFFFFF;
 }
 
 #footer {
