@@ -13,9 +13,9 @@ width:300px;
 }
 
 #main {
-    position: relative;
+    position: fixed;
     right: 0;
-    width:800px;
+    width:700px;
 }
 
 #footer {
