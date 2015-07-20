@@ -14,7 +14,8 @@ width:300px;
 
 #main {
     position: absolute;
-    right: 0;
+	top:78px;
+    right: 56px;
     width:700px;
     background-color:#FFFFFF;
 }
