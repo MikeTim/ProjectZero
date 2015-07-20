@@ -12,7 +12,7 @@ def root():
 def sengenpg():
 	text = "sengen"
 	return text
-@module.route('/markov')
+@module.route('/markov/')
 def markovpg():
 	text = "markov"
 	return text
